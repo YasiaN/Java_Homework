@@ -1,3 +1,7 @@
+package Practice_oop;
+
+import Practice_oop.Animal;
+
 public class Cat extends Animal {
     //задаем поля (состояния)
     private String name;

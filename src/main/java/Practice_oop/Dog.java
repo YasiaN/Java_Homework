@@ -1,4 +1,8 @@
-public class Dog extends Animal{
+package Practice_oop;
+
+import Practice_oop.Animal;
+
+public class Dog extends Animal {
     //задаём поля-состояния
     private static String name;
     private double age;

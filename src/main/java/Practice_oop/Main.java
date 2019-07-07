@@ -1,3 +1,8 @@
+package Practice_oop;
+
+import Practice_oop.Cat;
+import Practice_oop.Dog;
+
 public class Main {
     public static void main(String[] args) {
         Cat cat = new Cat("Marfa", 47.5, 1);
